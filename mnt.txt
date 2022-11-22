@@ -1,0 +1,4 @@
+Name    PP    KP   MNTP   KPDTP
+ABC     1     1    1     1
+XYZ     1     2    4     2
+XYZ1     1     2    8     4
